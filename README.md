@@ -13,6 +13,7 @@ The project demonstrates:
 
 ## 📊 Dataset
 - Source: Kaggle Resume Screening Dataset
+- Link: https://www.kaggle.com/datasets/kawsertalukder/resume-screening-dataset4500
 - Size: 4500 samples
 - Features:
   - Structured: years_experience, highest_degree, has_portfolio
